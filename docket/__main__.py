@@ -10,4 +10,5 @@ if __name__ == '__main__':
 
     x = Explorer(path)
    
-    print(x.tag_set())
+    #print(x.filter('cause'))
+    print(x.count_tag('cause'))

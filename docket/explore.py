@@ -24,11 +24,14 @@ class Explorer:
         return tags
 
     def filter(self, tag):
-        """Search for tag and return a list of the text contained in
-        each occurence of that tag.
+        """Search for tag and return a list of the text.
+        
+        Returns a list of of all of the strings from each occurrence of
+        tag in the xml documents. *Note* this will ignore items that
+        don't have a text attribute.
 
         Keyword arguments:
-        tag -- the tag to search for
+        tag -- string, the tag to search for
         """
         try:
             next(self.context)
@@ -38,7 +41,9 @@ class Explorer:
         text = []
         for event, elem in self.context:
             if elem.tag == tag:
-                text.append(elem.text)
+                # Don't add empty text
+                if elem.text is not None:
+                    text.append(elem.text)
                 elem.clear() # free memory
         return text
 
@@ -50,7 +55,7 @@ class Explorer:
        many times the text appeared. Useful for histograms.
        
        Keyword arguments:
-       tag -- the tag to search for
+       tag -- string, the tag to search for
        """
        count = Counter(self.filter(tag))
        return count.most_common() 
