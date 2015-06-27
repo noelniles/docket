@@ -1,4 +1,7 @@
 venv
 
+# ipython notebokk checkpoints
+.ipynb_checkpoints/
+
 # ignore the huge dataz
 law_data
