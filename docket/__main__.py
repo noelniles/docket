@@ -1,7 +1,5 @@
 import os
 from docket.explore import Explorer
-from docket.cosax import EventHandler
-import xml.sax
 
 
 if __name__ == '__main__':
@@ -12,4 +10,5 @@ if __name__ == '__main__':
 
     x = Explorer(path)
    
+    #print(x.filter('md.judges'))
     print(x.tag_set())

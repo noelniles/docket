@@ -1,7 +1,6 @@
 import os, sys
 from collections import Counter
 from xml.etree.cElementTree import iterparse
-from lib.coroutine import *
 
 class Explorer:
     def __init__(self, path):
@@ -17,14 +16,20 @@ class Explorer:
         return tags
 
     def filter(self, tag):
-        """Search for tag and return the text.
+        """Search for tag and return a list of the text.
 
         Keyword arguments:
-        target -- another coroutine
+        tag -- the tag to search for
         """
+        text = []
         event, root = next(self.context)
         for event, elem in self.context:
             if elem.tag == tag:
-                print(elem.text)
+                text.append(elem.text)
                 root.clear()
+        return text
+
+    def freq(self, tag, text):
+       """Counts how many times text appears in all of the tags"""
+       pass
 
