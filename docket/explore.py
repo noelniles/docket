@@ -9,7 +9,11 @@ class Explorer:
         self.context = iterparse(self.path)
 
     def tag_set(self):
-        """Return a set of all the tags."""
+        """Return a set of all the tags.
+        
+        Useful for finding out which tags have usefule information in an
+        xml file.
+        """
         tags = set()
 
         # Ugly, but neccessary hack
@@ -23,7 +27,7 @@ class Explorer:
             elem.clear() # free memory
         return tags
 
-    def filter(self, tag):
+    def grab(self, tag):
         """Search for tag and return a list of the text.
         
         Returns a list of of all of the strings from each occurrence of
@@ -46,6 +50,26 @@ class Explorer:
                     text.append(elem.text)
                 elem.clear() # free memory
         return text
+
+    def grab_many(self, tags=[]):
+        """Search for tag and return a dictionary of text.
+
+        Returns a dictionary indexed by tags. Each key points to a list
+        of the text from every occurrence of the tag in the xml file.
+
+        Keyword argument:
+        tags -- list of strings which are tags in the xml file.
+            *Valid tags can be found using the tag_set function.*
+        """
+        result = {}
+        text = []
+        for event, elem in self.context:
+            for tag in tags:
+                if elem.tag == tag and elem.text is not None:
+                    text.append(elem.text)
+
+                result[tag] = text
+        return result
 
     def count_tag(self, tag):
        """Count how often a tag appears.

@@ -9,6 +9,18 @@ if __name__ == '__main__':
     path = os.path.join(os.getcwd(), data_path, xml_file)
 
     x = Explorer(path)
+
+    #print("All Possible Tags:")
+    #for tag in x.tag_set():
+    #    print(tag)
    
     #print(x.filter('cause'))
-    print(x.count_tag('cause'))
+    #print("Causes from Most to Least Common:")
+    #for cause in x.count_tag('cause'):
+    #    print(cause)
+    res = x.fields_from_tag(['court.block', 'md.title'])
+
+    for title in res['md.title']:
+        print("Title: ", title)
+    for cb in res['court.block']:
+        print("Court: ", cb)
