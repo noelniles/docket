@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<n-document guid="I10311149AB1E11D9BDD1CFDD544CA3A4">
+  <n-metadata>
+    <metadata.block>
+      <md.identifiers>
+        <md.westlawids>
+          <md.docketnum>1:05CV00726</md.docketnum>
+          <md.docketnum>1:05-CV-00726</md.docketnum>
+        </md.westlawids>
+        <md.uuid>I10311149AB1E11D9BDD1CFDD544CA3A4</md.uuid>
+      </md.identifiers>
+      <md.infotype>DOCKET</md.infotype>
+      <md.descriptions>
+        <md.title>1613 HARVARD LIMITED PARTNERSHIP V. DISTRICT OF COLUMBIA ET AL</md.title>
+        <md.doc.family.uuid>I1031114BAB1E11D9BDD1CFDD544CA3A4</md.doc.family.uuid>
+      </md.descriptions>
+      <md.dates>
+        <md.filedate>20050408</md.filedate>
+        <md.createddatetime>20140610233434</md.createddatetime>
+      </md.dates>
+      <md.subjects>
+        <md.subject>
+          <md.doctype.name>1L</md.doctype.name>
+          <md.doctype.rank>0035</md.doctype.rank>
+        </md.subject>
+      </md.subjects>
+      <md.contributors>
+        <md.judge>JUDGE RICHARD W. ROBERTS</md.judge>
+        <md.attorney>RICHARD GLENN WISE</md.attorney>
+        <md.attorney>MARTHA J. MULLEN</md.attorney>
+        <md.attorney>MARTHA J. MULLEN</md.attorney>
+        <md.attorney>MARTHA J. MULLEN</md.attorney>
+      </md.contributors>
+      <md.jurisdictions>
+        <md.jurisdiction>
+          <md.jurisnum>1022</md.jurisnum>
+          <md.juriscourt>D.D.C.</md.juriscourt>
+          <md.jurisstate>FE</md.jurisstate>
+          <md.jurisabbrev>DC-DCT</md.jurisabbrev>
+          <md.jurislevel>TRIAL</md.jurislevel>
+        </md.jurisdiction>
+      </md.jurisdictions>
+      <md.publications>
+        <md.publication>
+          <md.pubid>176986</md.pubid>
+        </md.publication>
+        <md.publicationgroup>TRIALDOC</md.publicationgroup>
+        <md.sourcepubid>176986</md.sourcepubid>
+      </md.publications>
+      <md.royalty>
+        <md.royalty.code>DCK</md.royalty.code>
+        <md.royalty.number>24957</md.royalty.number>
+      </md.royalty>
+    </metadata.block>
+    <prism-stylesheet guid="IA3E769F1000000F7AB273F7AD786F6D9" />
+    <prism-clipdate>20050412013913</prism-clipdate>
+  </n-metadata>
+  <n-metadoc contenttype="Dockets">
+    <n-field name="attorney.docket">Plaintiff Attorney(s): RICHARD GLENN WISE</n-field>
+    <n-field name="attorney.docket">Defendant Attorney(s): MARTHA J. MULLEN</n-field>
+    <n-field name="judge.docket">Judge(s): JUDGE RICHARD W. ROBERTS</n-field>
+    <n-field name="party.name">Plaintiff(s): 1613 HARVARD LIMITED PARTNERSHIP</n-field>
+    <n-field name="party.name">Defendant(s): DISTRICT OF COLUMBIA; PATRICK J.
+            CANAVAN ACTING DIRECTOR, DISTRICT OF COLUMBIA DEPARTMENT OF CONSUMER
+            AND REGULATORY AFFAIRS; PAUL E. WATERS ACTING ADMINISTRATOR,
+            DISTRICT OF COLUMBIA DEPARTMENT OF CONSUMER AND REGULATORY
+            AFFAIRS</n-field>
+    <n-field name="jury.demand">NONE</n-field>
+    <n-field name="image.link">F</n-field>
+    <n-field name="has.headnotes">F</n-field>
+    <n-field name="has.footnotes">F</n-field>
+    <n-field name="has.orig.img">F</n-field>
+    <n-field name="case.type">CIVIL</n-field>
+    <n-field name="content.subtype">Dockets</n-field>
+    <n-field name="court.line">U.S. DISTRICT COURT, DISTRICT OF COLUMBIA
+            (WASHINGTON DC)</n-field>
+    <n-field name="date.current">20090309000000</n-field>
+    <n-field name="date.file">20050408000000</n-field>
+    <n-field name="doc.family.uuid">I1031114BAB1E11D9BDD1CFDD544CA3A4</n-field>
+    <n-field name="docket">1:05-CV-00726</n-field>
+    <n-field name="court.juris">D.D.C.</n-field>
+    <n-field name="juris.facet">Federal|**|District Ct.|**|D.C.</n-field>
+    <n-field name="court.number">1022</n-field>
+    <n-field name="juris.l1">Federal</n-field>
+    <n-field name="juris.l2">District
+            of Columbia</n-field>
+    <n-field name="juris.l3">Federal District
+            Courts</n-field>
+    <n-field name="keynature.facet">CIVIL
+            RIGHTS|**|OTHER FEDERAL CIVIL RIGHTS</n-field>
+    <n-field name="legacy.id">DC-DCT1:05CV00726</n-field>
+    <n-field name="mdoc.datetime">20140611012156</n-field>
+    <n-field name="royalty.id">24957</n-field>
+    <n-field name="title.docket">1613
+            HARVARD LIMITED PARTNERSHIP V. DISTRICT OF COLUMBIA ET
+            AL</n-field>
+    <n-field name="src.pub.id">176986</n-field>
+    <n-field name="content.type">Dockets</n-field>
+    <n-field name="attorney">Wise,
+            Richard|**|Greenstein DeLorme &amp; Luchs, P.C.</n-field>
+    <n-field name="law.firm">Greenstein DeLorme &amp; Luchs,
+            P.C.</n-field>
+    <n-field name="attorney">Mullen, Martha|**|Martha J.
+            Mullen</n-field>
+    <n-field name="law.firm">Martha J.
+            Mullen</n-field>
+    <n-field name="judge.author">Roberts,
+            Richard|**|United States District Court, District of
+            Columbia</n-field>
+  </n-metadoc>
+  <n-docbody>
+    <r r1="1613 HARVARD LIMITED PARTNERSHIP" r2="DISTRICT OF COLUMBIA" roy="24957">
+      <bop />
+      <bos />
+      <p>FEDERAL DCT DOCKETS</p>
+      <pc>DCK</pc>
+      <legacy.id>DC-DCT1:05CV00726</legacy.id>
+      <case.type>CIVIL</case.type>
+      <data.source.type>ECF</data.source.type>
+      <scrape.date>20090309</scrape.date>
+      <c>
+        <case.number office="1" sequence="00726" type="cv" year="2005">1:05CV00726</case.number>
+        <court.norm normalized="DCDCT">DC-DCT</court.norm>
+      </c>
+      <col.key>CIV</col.key>
+      <cluster.name>N_DDCDCT</cluster.name>
+      <state.source>DC</state.source>
+      <court.block>
+        <label>Court:</label>
+        <court>U.S. DISTRICT COURT, DISTRICT OF COLUMBIA (WASHINGTON DC)</court>
+        <court.pretty>D.D.C.</court.pretty>
+        <court.citelist>DC U.S. DIST. CT.</court.citelist>
+      </court.block>
+      <title.block>
+        <label>Case
+                    Title:</label>
+        <primary.title>
+          <cite.query ID="Ic364a830f12311e3bcc9b7a246f9a190" w-normalized-cite="5020695058" w-ref-type="OA" w-seq-number="00001">1613 HARVARD</cite.query>
+          LIMITED
+                    PARTNERSHIP v. DISTRICT OF COLUMBIA ET
+                    AL
+        </primary.title>
+      </title.block>
+      <docket.block>
+        <label>Case:</label>
+        <docket.number office="1" sequence="00726" type="cv" year="2005">1:05-CV-00726</docket.number>
+      </docket.block>
+      <panel.block>
+        <label>Judge:</label>
+        <judge>
+          JUDGE
+          <cite.query ID="Ic39b4890f12311e3bcc9b7a246f9a190" w-normalized-cite="0305778701" w-ref-type="RQ" w-seq-number="00002">RICHARD W.
+                        ROBERTS</cite.query>
+        </judge>
+      </panel.block>
+      <filing.date.block>
+        <label>Date
+                    Filed:</label>
+        <filing.date>20050408</filing.date>
+      </filing.date.block>
+      <closed.date.block>
+        <label>Date
+                    Closed/Terminated:</label>
+        <closed.date>20070719</closed.date>
+      </closed.date.block>
+      <convert.date>20140610</convert.date>
+      <platform>ECF</platform>
+      <case.status.block>
+        <label>Case
+                    Status:</label>
+        <case.status.flag>CLOSED,
+                    TYPE-L</case.status.flag>
+      </case.status.block>
+      <summary>
+        <case.number.block>
+          <label>Case
+                        Number:</label>
+          <case.number office="1" sequence="00726" type="cv" year="2005">1:05CV00726</case.number>
+          <case.number.hidden>1:05CV00726
+                        1:2005CV00726 1:0500726 1:200500726 05-CV-00726
+                        2005-CV-00726 05CV00726 2005CV00726 05-00726 2005-00726
+                        05-CV-00726 1:05CV0726 1:2005CV0726 1:050726 1:20050726
+                        05-CV-0726 2005-CV-0726 05CV0726 2005CV0726 05-0726
+                        2005-0726 05-CV-0726 1:05CV726 1:2005CV726 1:05726
+                        1:2005726 05-CV-726 2005-CV-726 05CV726 2005CV726 05-726
+                        2005-726 05-CV-726 1:05CV00726 1:2005CV00726 1:0500726
+                        1:200500726 05-CV-00726 2005-CV-00726 05CV00726
+                        2005CV00726 05-00726 2005-00726 05-CV-00726 1:05CV00726
+                        1:2005CV00726 1:0500726 1:200500726 05-CV-00726
+                        2005-CV-00726 05CV00726 2005CV00726 05-00726 2005-00726
+                        05-CV-00726</case.number.hidden>
+        </case.number.block>
+        <jury.demand.block>
+          <label>Jury
+                        Demand:</label>
+          <jury.demand>NONE</jury.demand>
+        </jury.demand.block>
+        <demand.amount.block>
+          <label>Demand:</label>
+          <demand.amount>1150000</demand.amount>
+        </demand.amount.block>
+        <nature.of.suit.block>
+          <label>Nature
+                        of Suit:</label>
+          <nature.of.suit>CIVIL RIGHTS:  OTHER
+                        CIVIL RIGHTS
+                        (440)</nature.of.suit>
+          <nature.of.suit.code>440</nature.of.suit.code>
+        </nature.of.suit.block>
+        <key.nature.of.suit.block>
+          <knos.level1.block>
+            <label>Key
+                            Nature of Suit:</label>
+            <knos.level1>CIVIL
+                            RIGHTS</knos.level1>
+          </knos.level1.block>
+          <knos.level2.block>
+            <label>Key
+                            Nature of Suit:</label>
+            <knos.level2>OTHER FEDERAL
+                            CIVIL
+                            RIGHTS</knos.level2>
+          </knos.level2.block>
+          <knos.code>110.45</knos.code>
+        </key.nature.of.suit.block>
+        <jurisdiction.block>
+          <label>Jurisdiction:</label>
+          <jurisdiction>FEDERAL
+                        QUESTION</jurisdiction>
+        </jurisdiction.block>
+        <cause.block>
+          <label>Cause:</label>
+          <cause>
+            <cite.query ID="Ic3a1d840f12311e3bcc9b7a246f9a190" w-normalized-cite="42USCAS1983" w-pub-number="1000546" w-ref-type="LQ" w-seq-number="00003">42 USC 1983</cite.query>
+            CIVIL
+                        RIGHTS
+                        ACT
+          </cause>
+        </cause.block>
+      </summary>
+      <higher.court.information>
+        <cta.jurisdiction.number>1750</cta.jurisdiction.number>
+        <sct.jurisdiction.number>3630</sct.jurisdiction.number>
+      </higher.court.information>
+      <party.block>
+        <plaintiff.party>
+          <party.type>Plaintiff</party.type>
+          <party.name.block>
+            <label>Plaintiff:</label>
+            <party.name>
+              <cite.query ID="Ic3a4e580f12311e3bcc9b7a246f9a190" w-normalized-cite="5020695058" w-ref-type="OA" w-seq-number="00004">1613 HARVARD</cite.query>
+              LIMITED
+                            PARTNERSHIP
+            </party.name>
+          </party.name.block>
+          <party.attorney.block>
+            <label>Attorney(s):</label>
+            <attorney.name>
+              <cite.query ID="Ic44d8190f12311e3bcc9b7a246f9a190" w-normalized-cite="0146700901" w-ref-type="RQ" w-seq-number="00005">RICHARD GLENN
+                                WISE</cite.query>
+            </attorney.name>
+            <attorney.email>RGW@GDLLAW.COM</attorney.email>
+            <firm.name.block>
+              <label>Firm
+                                Name:</label>
+              <firm.name>GREENSTEIN, DELORME
+                                &amp; LUCHS,
+                                P.C.</firm.name>
+            </firm.name.block>
+            <firm.address.block>
+              <label>Attorney
+                                Address:</label>
+              <street>1620 L STREET,
+                                NW</street>
+              <street>SUITE
+                                900</street>
+              <city>WASHINGTON</city>
+              <state>DC</state>
+              <zip>20036</zip>
+            </firm.address.block>
+            <firm.phone.block>
+              <label>Attorney
+                                Phone:</label>
+              <firm.phone>202-452-1400</firm.phone>
+            </firm.phone.block>
+            <firm.fax.block>
+              <label>Attorney
+                                Fax:</label>
+              <firm.fax>202-452-1410</firm.fax>
+            </firm.fax.block>
+          </party.attorney.block>
+        </plaintiff.party>
+        <defendant.party>
+          <party.type>Defendant</party.type>
+          <party.name.block>
+            <label>Defendant:</label>
+            <party.name>DISTRICT
+                            OF
+                            COLUMBIA</party.name>
+          </party.name.block>
+          <party.attorney.block>
+            <label>Attorney(s):</label>
+            <attorney.name>
+              <cite.query ID="Ic4ecf5e0f12311e3bcc9b7a246f9a190" w-normalized-cite="0278333901" w-ref-type="RQ" w-seq-number="00006">MARTHA J.
+                                MULLEN</cite.query>
+            </attorney.name>
+            <attorney.email>MARTHA.MULLEN@DC.GOV</attorney.email>
+            <firm.name.block>
+              <label>Firm
+                                Name:</label>
+              <firm.name>OFFICE OF CORPORATION
+                                COUNSEL</firm.name>
+            </firm.name.block>
+            <firm.address.block>
+              <label>Attorney
+                                Address:</label>
+              <street>441 FOURTH STREET,
+                                NW</street>
+              <street>SIXTH FLOOR
+                                SOUTH</street>
+              <city>WASHINGTON</city>
+              <state>DC</state>
+              <zip>20001</zip>
+            </firm.address.block>
+            <firm.phone.block>
+              <label>Attorney
+                                Phone:</label>
+              <firm.phone>202-724-6612</firm.phone>
+            </firm.phone.block>
+            <firm.fax.block>
+              <label>Attorney
+                                Fax:</label>
+              <firm.fax>202-727-0431</firm.fax>
+            </firm.fax.block>
+          </party.attorney.block>
+        </defendant.party>
+        <defendant.party>
+          <party.type>Defendant</party.type>
+          <party.name.block>
+            <label>Defendant:</label>
+            <party.name>
+              <cite.query ID="Ic4f49700f12311e3bcc9b7a246f9a190" w-normalized-cite="canonical_name::PATRICK J                                 CANAVAN ACTING" w-ref-type="ON" w-seq-number="00007">PATRICK J. CANAVAN
+                                ACTING</cite.query>
+              DIRECTOR, DISTRICT OF
+                            COLUMBIA DEPARTMENT OF CONSUMER AND REGULATORY
+                            AFFAIRS
+            </party.name>
+          </party.name.block>
+          <party.attorney.block>
+            <label>Attorney(s):</label>
+            <attorney.name>
+              <cite.query ID="Ic573d920f12311e3bcc9b7a246f9a190" w-normalized-cite="0278333901" w-ref-type="RQ" w-seq-number="00008">MARTHA J.
+                                MULLEN</cite.query>
+            </attorney.name>
+            <attorney.email>MARTHA.MULLEN@DC.GOV</attorney.email>
+            <firm.name.block>
+              <label>Firm
+                                Name:</label>
+              <firm.name>OFFICE OF CORPORATION
+                                COUNSEL</firm.name>
+            </firm.name.block>
+            <firm.address.block>
+              <label>Attorney
+                                Address:</label>
+              <street>441 FOURTH STREET,
+                                NW</street>
+              <street>SIXTH FLOOR
+                                SOUTH</street>
+              <city>WASHINGTON</city>
+              <state>DC</state>
+              <zip>20001</zip>
+            </firm.address.block>
+            <firm.phone.block>
+              <label>Attorney
+                                Phone:</label>
+              <firm.phone>202-724-6612</firm.phone>
+            </firm.phone.block>
+            <firm.fax.block>
+              <label>Attorney
+                                Fax:</label>
+              <firm.fax>202-727-0431</firm.fax>
+            </firm.fax.block>
+          </party.attorney.block>
+        </defendant.party>
+        <defendant.party>
+          <party.type>Defendant</party.type>
+          <party.name.block>
+            <label>Defendant:</label>
+            <party.name>
+              <cite.query ID="Ic580d170f12311e3bcc9b7a246f9a190" w-normalized-cite="canonical_name::PAUL E WATERS                                 ACTING ADMINISTRATOR DISTRICT OF COLUMBIA                                 DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS" w-ref-type="ON" w-seq-number="00009">PAUL E.
+                                WATERS ACTING ADMINISTRATOR, DISTRICT OF
+                                COLUMBIA DEPARTMENT OF CONSUMER AND REGULATORY
+                                AFFAIRS</cite.query>
+            </party.name>
+          </party.name.block>
+          <party.attorney.block>
+            <label>Attorney(s):</label>
+            <attorney.name>
+              <cite.query ID="Ic61214f0f12311e3bcc9b7a246f9a190" w-normalized-cite="0278333901" w-ref-type="RQ" w-seq-number="00010">MARTHA J.
+                                MULLEN</cite.query>
+            </attorney.name>
+            <attorney.email>MARTHA.MULLEN@DC.GOV</attorney.email>
+            <firm.name.block>
+              <label>Firm
+                                Name:</label>
+              <firm.name>OFFICE OF CORPORATION
+                                COUNSEL</firm.name>
+            </firm.name.block>
+            <firm.address.block>
+              <label>Attorney
+                                Address:</label>
+              <street>441 FOURTH STREET,
+                                NW</street>
+              <street>SIXTH FLOOR
+                                SOUTH</street>
+              <city>WASHINGTON</city>
+              <state>DC</state>
+              <zip>20001</zip>
+            </firm.address.block>
+            <firm.phone.block>
+              <label>Attorney
+                                Phone:</label>
+              <firm.phone>202-724-6612</firm.phone>
+            </firm.phone.block>
+            <firm.fax.block>
+              <label>Attorney
+                                Fax:</label>
+              <firm.fax>202-727-0431</firm.fax>
+            </firm.fax.block>
+          </party.attorney.block>
+        </defendant.party>
+      </party.block>
+      <docket.entries.block>
+        <label>Entry
+                    #:</label>
+        <label>Date:</label>
+        <label>Description:</label>
+        <docket.entry>
+          <number.block>
+            <number>28</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450912204;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A1-280450912204" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450912204;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>07/19/2007</date>
+          <docket.description>ORDER
+                        GRANTING DEFENDANTS' MOTION TO DISMISS AND DENYING
+                        PLAINTIFF'S MOTION FOR LEAVE TO FILE A SECOND
+                        AMENDED COMPLAINT. SIGNED BY JUDGE RICHARD W. ROBERTS ON
+                        7/19/07. (LCRWR1, ) (ENTERED:
+                        07/19/2007)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>27</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501909813;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A2-2704501909813" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501909813;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>07/19/2007</date>
+          <docket.description>MEMORANDUM
+                        OPINION. SIGNED BY JUDGE RICHARD W. ROBERTS ON 7/19/07.
+                        (LCRWR1) MODIFIED ON 7/19/2007 (LCRWR1, ). (ENTERED:
+                        07/19/2007)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>26</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501672579;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A4-2604501672579" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501672579;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>03/31/2007</date>
+          <docket.description>
+            MEMORANDUM
+                        ORDER GRANTING DEFENDANTS'
+                        MOTION
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">21</image.gateway.link>
+            <gateway.image.link ID="B3-21-0450561212" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">21</gateway.image.link>
+            TO STAY
+                        DISCOVERY PENDING RESOLUTION OF DEFENDANTS'
+                        DISPOSITIVE MOTION FILED BY PATRICK J. CANAVAN, PAUL E.
+                        WATERS. SIGNED BY JUDGE RICHARD W. ROBERTS ON 3/31/07.
+                        (LCRWR1) ADDITIONAL ATTACHMENT(S) ADDED ON 4/3/2007
+                        (LCRWR1, ). (ENTERED:
+                        04/02/2007)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>25</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501577842;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A6-2504501577842" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501577842;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>11/15/2005</date>
+          <docket.description>
+            RESPONSE
+                        TO DEFENDANTS' NOTICE OF COURT RULING IN RELATED
+                        CASE FILED BY 1613 HARVARD LIMITED PARTNERSHIP.
+                        (ATTACHMENTS: #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511581037;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B5-1-04511581037" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511581037;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            EXHIBIT 1 -
+                        NOTICE OF APPEAL)(WISE, RICHARD) (ENTERED:
+                        11/15/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>24</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501579104;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A8-2404501579104" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501579104;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>11/14/2005</date>
+          <docket.description>
+            NOTIFICATION
+                        OF SUPPLEMENTAL AUTHORITY BY DISTRICT OF COLUMBIA,
+                        PATRICK J. CANAVAN, PAUL E. WATERS (ATTACHMENTS:
+                        #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511577643;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B7-1-04511577643" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511577643;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            )(MULLEN, MARTHA)
+                        (ENTERED:
+                        11/14/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>23</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450481056;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A10-230450481056" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450481056;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>08/08/2005</date>
+          <docket.description>
+            REPLY
+                        TO OPPOSITION TO MOTION RE
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">21</image.gateway.link>
+            <gateway.image.link ID="B9-21-0450561212" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">21</gateway.image.link>
+            TO STAY
+                        DISCOVERY FILED BY DISTRICT OF COLUMBIA, PATRICK J.
+                        CANAVAN, PAUL E. WATERS. (LOVE, RICHARD) (ENTERED:
+                        08/08/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>22</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501504025;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A15-2204501504025" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501504025;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>08/04/2005</date>
+          <docket.description>
+            MEMORANDUM
+                        IN OPPOSITION TO MOTION RE
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">21</image.gateway.link>
+            <gateway.image.link ID="B11-21-0450561212" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0450561212;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">21</gateway.image.link>
+            STAY OF DISCOVERY
+                        DURING PENDENCY OF DISPOSITIVE MOTION FILED BY 1613
+                        HARVARD LIMITED PARTNERSHIP. (ATTACHMENTS:
+                        #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511504026;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B12-1-04511504026" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511504026;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            EXHIBIT 1 -
+                        MEMORANDUM OF JUDGE FISHER#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511504027;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+            <gateway.image.link ID="B13-2-04511504027" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511504027;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>
+            EXHIBIT 2 - ORDER
+                        OF JUDGE FISHER#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511504028;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+            <gateway.image.link ID="B14-3-04511504028" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511504028;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>
+            TEXT OF PROPOSED
+                        ORDER DENYING DEFENDANTS' MOTION TO STAY
+                        DISCOVERY)(WISE, RICHARD) (ENTERED:
+                        08/04/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>21</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450561212;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A16-210450561212" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450561212;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>08/02/2005</date>
+          <docket.description>MOTION
+                        TO STAY DISCOVERY PENDING RESOLUTION OF DEFENDANTS'
+                        DISPOSITIVE MOTION BY DISTRICT OF COLUMBIA, PATRICK J.
+                        CANAVAN, PAUL E. WATERS. (MULLEN, MARTHA) (ENTERED:
+                        08/02/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <send.runner.link indexvalue="1" />
+          <date>07/18/2005</date>
+          <docket.description>
+            MINUTE
+                        ORDER: IT IS HEREBY ORDERED THAT DEFENDANT'S
+                        CONSENT MOTION
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04501413731;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">17</image.gateway.link>
+            <gateway.image.link ID="B17-17-04501413731" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04501413731;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">17</gateway.image.link>
+            FOR EXTENSION OF
+                        TIME TO FILE RESPONSE BE, AND HEREBY IS, GRANTED, NUNC
+                        PRO TUNC. ISSUED BY JUDGE RICHARD W. ROBERTS ON
+                        7/18/2005. NB: THE COURT WILL NO LONGER SEND ATTORNEYS
+                        COURTESY PAPER COPIES OF OPINIONS AND ORDERS. OPINIONS
+                        AND ORDERS WILL BE SENT TO ATTORNEYS ONLY ELECTRONICALLY
+                        UNDER LCVR 5.4(B)(1).(LCRWR3) (ENTERED:
+                        07/18/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>20</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501435155;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A18-2004501435155" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501435155;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>07/05/2005</date>
+          <docket.description>MEET
+                        AND CONFER STATEMENT. (WISE, RICHARD) (ENTERED:
+                        07/05/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>19</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501452328;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A20-1904501452328" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501452328;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/29/2005</date>
+          <docket.description>
+            REPLY
+                        TO OPPOSITION TO MOTION RE
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04501334483;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">13</image.gateway.link>
+            <gateway.image.link ID="B19-13-04501334483" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04501334483;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">13</gateway.image.link>
+            LEAVE TO FILE
+                        SECOND AMENDED COMPLAINT WHICH ADDS A PARTY DEFENDANT
+                        FILED BY 1613 HARVARD LIMITED PARTNERSHIP. (WISE,
+                        RICHARD) (ENTERED:
+                        06/29/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>18</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450490274;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A22-180450490274" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450490274;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/28/2005</date>
+          <docket.description>
+            MEMORANDUM
+                        IN OPPOSITION TO MOTION RE
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04501334483;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">13</image.gateway.link>
+            <gateway.image.link ID="B21-13-04501334483" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04501334483;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">13</gateway.image.link>
+            PLAINTIFF'S
+                        MOTION FOR LEAVE TO AMEND THE COMPLAINT FILED BY
+                        DISTRICT OF COLUMBIA, PATRICK J. CANAVAN, PAUL E.
+                        WATERS. (MULLEN, MARTHA) (ENTERED:
+                        06/28/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>17</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501413731;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A23-1704501413731" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501413731;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/27/2005</date>
+          <docket.description>UNOPPOSED
+                        MOTION FOR EXTENSION OF TIME TO FILE OPPOSITION TO
+                        PLAINTIFF'S MOTION FOR LEAVE TO AMEND THE COMPLAINT
+                        BY DISTRICT OF COLUMBIA, PATRICK J. CANAVAN, PAUL E.
+                        WATERS. (MULLEN, MARTHA) (ENTERED:
+                        06/27/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>16</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501432302;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A24-1604501432302" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501432302;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/16/2005</date>
+          <docket.description>REPLY
+                        TO PLAINTIFF'S SUPPLEMENTAL BRIEF IN OPPOSITION TO
+                        DEFENDANTS' DISPOSITIVE MOTION FILED BY DISTRICT OF
+                        COLUMBIA, PATRICK J. CANAVAN, PAUL E. WATERS. (MULLEN,
+                        MARTHA) (ENTERED:
+                        06/16/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>15</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450508330;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A26-150450508330" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450508330;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/10/2005</date>
+          <docket.description>
+            SUPPLEMENTAL
+                        MEMORANDUM IN OPPOSITION TO DEFENDANTS' MOTION TO
+                        DISMISS OR, IN THE ALTERNATIVE, FOR SUMMARY JUDGMENT
+                        FILED BY 1613 HARVARD LIMITED PARTNERSHIP. (ATTACHMENTS:
+                        #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0451508331;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B25-1-0451508331" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0451508331;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            EXHIBIT 12 -
+                        WASHINGTON POST ARTICLE)(WISE, RICHARD) (ENTERED:
+                        06/10/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>14</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501395459;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A27-1404501395459" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501395459;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/09/2005</date>
+          <docket.description>REPLY
+                        TO OPPOSITION TO MOTION RE 10 REPLY TO PLAINTIFF'S
+                        OPPOSITION TO DEFENANTS' MOTION TO DISMISS THE
+                        COMPLAINT OR GRANT SUMMARY JUDGMENT FILED BY DISTRICT OF
+                        COLUMBIA, PATRICK J. CANAVAN, PAUL E. WATERS. (MULLEN,
+                        MARTHA) (ENTERED:
+                        06/09/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <send.runner.link indexvalue="2" />
+          <date>06/09/2005</date>
+          <docket.description>SET/RESET
+                        DEADLINES: DEFENDANT'S REPLIES TO THE MOTION TO
+                        DISMISS DUE BY 6/9/2005. (CLV, ) (ENTERED:
+                        06/09/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <send.runner.link indexvalue="3" />
+          <date>06/08/2005</date>
+          <docket.description>
+            MINUTE
+                        ORDER GRANTING
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0450514843;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">12</image.gateway.link>
+            <gateway.image.link ID="B28-12-0450514843" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0450514843;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">12</gateway.image.link>
+            DEFENDANTS'
+                        MOTION FOR EXTENSION OF TIME TO 6/9/05 TO REPLY TO
+                        PLAINTIFF'S OPPOSITION TO DEFENDANTS' MOTION
+                        TO DISMISS. ISSUED BY JUDGE RICHARD W. ROBERTS ON
+                        6/8/05. (SEM) (ENTERED:
+                        06/08/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>13</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501334483;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A32-1304501334483" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501334483;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/08/2005</date>
+          <docket.description>
+            MOTION
+                        FOR LEAVE TO FILE SECOND AMENDED COMPLAINT BY 1613
+                        HARVARD LIMITED PARTNERSHIP. (ATTACHMENTS:
+                        #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511334484;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B29-1-04511334484" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511334484;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            EXHIBIT 1 - SECOND
+                        AMENDED COMPLAINT#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511334485;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+            <gateway.image.link ID="B30-2-04511334485" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511334485;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>
+            STATEMENT OF FACTS
+                        MEMORANDUM OF POINTS AND AUTHORITIES IN SUPPORT OF
+                        MOTION#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511334486;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+            <gateway.image.link ID="B31-3-04511334486" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511334486;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>
+            TEXT OF PROPOSED
+                        ORDER GRANTING HARVARD'S MOTION FOR LEAVE TO FILE
+                        SECOND AMENDED COMPLAINT)(WISE, RICHARD) (ENTERED:
+                        06/08/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>12</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450514843;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A33-120450514843" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450514843;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>06/03/2005</date>
+          <docket.description>CONSENT
+                        MOTION FOR EXTENSION OF TIME TO REPLY TO PLAINTIFFS
+                        OPPOSITION TO DEFENDANTS' MOTION TO DISMISS BY
+                        DISTRICT OF COLUMBIA, PATRICK J. CANAVAN, PAUL E.
+                        WATERS. (MULLEN, MARTHA) (ENTERED:
+                        06/03/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>11</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501347307;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A46-1104501347307" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501347307;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>05/26/2005</date>
+          <docket.description>
+            MEMORANDUM
+                        IN OPPOSITION TO MOTION RE 10 MOTION OF DEFENDANTS TO
+                        DISMISS OR, IN THE ALTERNATIVE, FOR SUMMARY JUDGMENT
+                        FILED BY 1613 HARVARD LIMITED PARTNERSHIP. (ATTACHMENTS:
+                        #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347311;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B34-1-04511347311" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347311;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            EXHIBIT 1 -
+                        TEMPORARY CEASE AND DESIST ORDER#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347312;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+            <gateway.image.link ID="B35-2-04511347312" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347312;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>
+            EXHIBIT 2 -
+                        AMENDED CEASE AND DESIST ORDER#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347333;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+            <gateway.image.link ID="B36-3-04511347333" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347333;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>
+            EXHIBIT 3 -
+                        AFFIDAVIT OF LORRAINE A. AVERY WITH EXHIBITS 3A AND
+                        3B#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347337;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">4</image.gateway.link>
+            <gateway.image.link ID="B37-4-04511347337" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347337;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">4</gateway.image.link>
+            EXHIBIT 4 -
+                        TRANSCRIPT MARCH 16, 2005 JUDGE
+                        GREENE#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347439;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">5</image.gateway.link>
+            <gateway.image.link ID="B38-5-04511347439" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347439;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">5</gateway.image.link>
+            EXHIBIT 5 -
+                        TRANSCRIPT MARCH 17, 2005 JUDGE
+                        GREENE#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347440;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">6</image.gateway.link>
+            <gateway.image.link ID="B39-6-04511347440" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347440;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">6</gateway.image.link>
+            EXHIBIT 6 -
+                        TRANSCRIPT JUDGE CANAN#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347443;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">7</image.gateway.link>
+            <gateway.image.link ID="B40-7-04511347443" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347443;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">7</gateway.image.link>
+            EXHIBIT 7 - D.C.
+                        COMPLAINT#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347445;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">8</image.gateway.link>
+            <gateway.image.link ID="B41-8-04511347445" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347445;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">8</gateway.image.link>
+            EXHIBIT 8 -
+                        NOTICE#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511347446;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">9</image.gateway.link>
+            <gateway.image.link ID="B42-9-04511347446" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511347446;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">9</gateway.image.link>
+            EXHIBIT 9 - JUDGE
+                        BEAUDIN - ORDER#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511345718;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">10</image.gateway.link>
+            <gateway.image.link ID="B43-10-04511345718" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511345718;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">10</gateway.image.link>
+            EXHIBIT 10 -
+                        TENANTS' MOTION TO QUASH#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511345720;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">11</image.gateway.link>
+            <gateway.image.link ID="B44-11-04511345720" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511345720;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">11</gateway.image.link>
+            EXHIBIT 11 -
+                        MONSKY V. MORAGHAN#
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511345721;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">12</image.gateway.link>
+            <gateway.image.link ID="B45-12-04511345721" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511345721;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">12</gateway.image.link>
+            TEXT OF PROPOSED
+                        ORDER DENYING MOTION TO DISMISS OR, IN THE ALTERNATIVE,
+                        FOR SUMMARY JUDGMENT)(WISE, RICHARD) (ENTERED:
+                        05/26/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <send.runner.link indexvalue="4" />
+          <date>05/25/2005</date>
+          <docket.description>
+            MINUTE
+                        ORDER: IT IS HEREBY ORDERED THAT DEFENDANT'S
+                        MOTION
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0450347268;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">8</image.gateway.link>
+            <gateway.image.link ID="B47-8-0450347268" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0450347268;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">8</gateway.image.link>
+            FOR EXTENSION OF
+                        TIME UNTIL MAY 17, 2005 TO RESPOND TO COMPLAINT BE, AND
+                        HEREBY IS, GRANTED, NUNC PRO TUNC. ISSUED BY JUDGE
+                        RICHARD W. ROBERTS ON 5/25/2005. NB: THE COURT WILL NO
+                        LONGER SEND ATTORNEYS COURTESY PAPER COPIES OF OPINIONS
+                        AND ORDERS. OPINIONS AND ORDERS WILL BE SENT TO
+                        ATTORNEYS ONLY ELECTRONICALLY UNDER LCVR 5.4(B)(1).
+                        (LCRWR3) (ENTERED:
+                        05/25/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>10</number>
+            <send.runner.link indexvalue="5" />
+          </number.block>
+          <date>05/18/2005</date>
+          <docket.description>MOTION
+                        FOR SUMMARY JUDGMENT BY DISTRICT OF COLUMBIA, PATRICK J.
+                        CANAVAN, PAUL E. WATERS. (TO VIEW DOCUMENT, CLICK ON
+                        LINK #9) (JF, ) (ENTERED:
+                        05/18/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>9</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450421890;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A49-90450421890" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450421890;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>05/17/2005</date>
+          <docket.description>
+            MOTION
+                        TO DISMISS FOR LACK OF JURISDICTION BY DISTRICT OF
+                        COLUMBIA, PATRICK J. CANAVAN, PAUL E. WATERS.
+                        (ATTACHMENTS: #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|0451421907;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B48-1-0451421907" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|0451421907;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            )(MULLEN, MARTHA)
+                        MODIFIED ON 5/18/2005 (JF, ). (ENTERED:
+                        05/17/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>8</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450347268;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A50-80450347268" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450347268;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>05/02/2005</date>
+          <docket.description>MOTION
+                        FOR EXTENSION OF TIME TO FILE ANSWER BY DISTRICT OF
+                        COLUMBIA. (MULLEN, MARTHA) (ENTERED:
+                        05/02/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>7</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501283843;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A51-704501283843" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501283843;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/27/2005</date>
+          <docket.description>AMENDED
+                        COMPLAINT AGAINST DISTRICT OF COLUMBIA, PATRICK J.
+                        CANAVAN, PAUL E. WATERSFILED BY 1613 HARVARD LIMITED
+                        PARTNERSHIP.(NMW, ) (ENTERED:
+                        04/28/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>6</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501427287;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A52-604501427287" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501427287;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/19/2005</date>
+          <docket.description>RETURN
+                        OF SERVICE/AFFIDAVIT OF SUMMONS AND COMPLAINT EXECUTED.
+                        DISTRICT OF COLUMBIA SERVED ON 4/14/2005, ANSWER DUE
+                        5/4/2005 (WISE, RICHARD) (ENTERED:
+                        04/19/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>5</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501392668;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A53-504501392668" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501392668;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/18/2005</date>
+          <docket.description>RETURN
+                        OF SERVICE/AFFIDAVIT OF SUMMONS AND COMPLAINT EXECUTED.
+                        PAUL E. WATERS SERVED ON 4/12/2005, ANSWER DUE 5/2/2005
+                        (WISE, RICHARD) (ENTERED:
+                        04/18/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>4</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501392075;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A54-404501392075" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501392075;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/18/2005</date>
+          <docket.description>RETURN
+                        OF SERVICE/AFFIDAVIT OF SUMMONS AND COMPLAINT EXECUTED.
+                        PATRICK J. CANAVAN SERVED ON 4/12/2005, ANSWER DUE
+                        5/2/2005 (WISE, RICHARD) (ENTERED:
+                        04/18/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>3</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501391400;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A56-304501391400" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501391400;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/18/2005</date>
+          <docket.description>
+            RETURN
+                        OF SERVICE/AFFIDAVIT OF SUMMONS AND COMPLAINT EXECUTED.
+                        DISTRICT OF COLUMBIA SERVED ON 4/12/2005, ANSWER DUE
+                        5/2/2005 (ATTACHMENTS: #
+            <image.gateway.link casenumber="1:05CV00726" court="DCDCT-DW" image.id="godls|04511391402;court=DCDCT-DW;casenumber=1:05CV00726" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+            <gateway.image.link ID="B55-1-04511391402" casenumber="1:05CV00726" court="DCDCT-DW" item.type="ATTACHMENT" key="godls|04511391402;court=DCDCT-DW;casenumber=1:05CV00726" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>
+            AFFIDAVIT OF
+                        SERVICE AS TO ROBERT J. SPAGNOLETTI, ATTORNEY GENERAL,
+                        D.C.)(WISE, RICHARD) (ENTERED:
+                        04/18/2005)
+          </docket.description>
+        </docket.entry>
+        <docket.entry>
+          <send.runner.link indexvalue="6" />
+          <date>04/08/2005</date>
+          <docket.description>SUMMONS
+                        (5)ISSUED AS TO DISTRICT OF COLUMBIA (ANTHONY WILLIAMS,
+                        ROBERT J. SPAGNOLETTI, OFFICE OF RISK MANAGEMENT),
+                        PATRICK J. CANAVAN, PAUL E. WATERS. (LC, ) (ENTERED:
+                        04/11/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>2</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|0450322929;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A57-20450322929" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|0450322929;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/08/2005</date>
+          <docket.description>LCVR
+                        7.1 - CERTIFICATE OF DISCLOSURE OF CORPORATE
+                        AFFILIATIONS AND FINANCIAL INTERESTS BY 1613 HARVARD
+                        LIMITED PARTNERSHIP (LC, ) (ENTERED:
+                        04/11/2005)</docket.description>
+        </docket.entry>
+        <docket.entry>
+          <number.block>
+            <number>1</number>
+            <image.block>
+              <image.gateway.link casenumber="1:05cv00726" court="DCDCT-DW" image.ID="godls|04501278913;court=DCDCT-DW;casenumber=1:05cv00726" item.type="main" platform="ecf" />
+              <gateway.image.link ID="A58-104501278913" casenumber="1:05cv00726" court="DCDCT-DW" item.type="main" key="godls|04501278913;court=DCDCT-DW;casenumber=1:05cv00726" tlr-class="gateway-image-link" ttype="ecf" />
+            </image.block>
+          </number.block>
+          <date>04/08/2005</date>
+          <docket.description>COMPLAINT
+                        AGAINST DISTRICT OF COLUMBIA, PATRICK J. CANAVAN, PAUL
+                        E. WATERS (FILING FEE $ 250) FILED BY 1613 HARVARD
+                        LIMITED PARTNERSHIP.(LC, ) (ENTERED:
+                        04/11/2005)</docket.description>
+        </docket.entry>
+      </docket.entries.block>
+      <eos />
+      <eop />
+    </r>
+  </n-docbody>
+</n-document>
+
+

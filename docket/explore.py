@@ -1,23 +1,26 @@
 import os, sys
 import xml.etree.ElementTree as ET
 
-
 class Explorer:
+    def __init__(self, path):
+        self.tree = ET.parse(path)
+        self.root = self.tree.getroot()
 
-    def __init__(self):
-        try:
-            self.approot = os.path.abspath(__file__)
-        except NameError:
-            self.approot = os.path.dirname(sys.argv[0])
-    
-    def show_something(self):
-        data_path = 'law_data/InnocentiveYear2005DCTExtract'
-        xml_path = 'DCTInnoExtY20050420DCTInnoExtY20050420_N_DFEDDISTCV12_2015042064336.nxo.xml'
-        xml_file = os.path.join(os.getcwd(), data_path, xml_path)
-        tree = ET.parse(xml_file)
-        root = tree.getroot()
+    def child_by_index(self, index):
+        print("Tag: ", self.root[index].tag)
+        print("Text: ", self.root[index].text)
 
-        doc = root[1]
+    def dump(self):
+        for child in self.root:
+            print("Tag: ", child.tag)
+            print("Attrib: ", child.attrib)
 
-        for x in doc.iter('n-document'):
-            print(x)
+    def interesting_dump(self, tag=None):
+        for child in self.root.iter(tag):
+            print("Tag: ", child.tag)
+            print("Attrib: ", child.attrib)
+            print("Text: ", child.text)
+
+    def count_judges():
+        pass
+
