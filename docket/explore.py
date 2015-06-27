@@ -1,5 +1,7 @@
 import os, sys
+from collections import Counter
 import xml.etree.ElementTree as ET
+from lib.coroutine import *
 
 class Explorer:
     def __init__(self, path):
@@ -21,6 +23,24 @@ class Explorer:
             print("Attrib: ", child.attrib)
             print("Text: ", child.text)
 
-    def count_judges():
-        pass
+    def naive_count_judges(self):
+        # Returns a Counter object with all the judges
+        judges = []
+        for child in self.root.iter('md.judge'):
+            judges.append(child.text) 
+        count = Counter(judges)
+        return count 
+
+    def tag_set(self):
+        # Returns a set of all tags of the tree
+        tags = []
+        for x in self.tree.iter():
+            tags.append(x.tag)
+        return set(tags)
+
+    @coroutine
+    def printer():
+        while True:
+            event = (yield)
+            print(event)
 
