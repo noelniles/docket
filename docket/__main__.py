@@ -10,5 +10,4 @@ if __name__ == '__main__':
 
     x = Explorer(path)
    
-    #print(x.filter('md.judges'))
     print(x.tag_set())
