@@ -1,4 +1,7 @@
 venv
+*.pyc
+*.swp
+__pycache__
 
 # ipython notebokk checkpoints
 .ipynb_checkpoints/
