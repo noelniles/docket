@@ -11,10 +11,5 @@ if __name__ == '__main__':
     path = os.path.join(os.getcwd(), data_path, xml_file)
 
     x = Explorer(path)
-    #x.naive_count_judges()
-
-    # Example of using Event Handlers
-    #xml.sax.parse(path, EventHandler(printer()))
-
-    # Returns all of the tags
+   
     print(x.tag_set())
