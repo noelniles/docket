@@ -19,6 +19,7 @@ import os, sys
 from docket.explore import Explorer
 
 
+
 if __name__ == '__main__':
     # Build the path to the xml file
     data_path = 'law_data/InnocentiveYear2005DCTExtract'
@@ -31,6 +32,10 @@ if __name__ == '__main__':
     x = Explorer(path)
     numargs = len(sys.argv)
 
+    consumer = x.consume()
+    consumer.send(None)
+    producer = x.produce(consumer, x.tag_set())
+
     # Exit if no command line arguments
     if numargs > 1:
         op = sys.argv[1]
@@ -40,8 +45,8 @@ if __name__ == '__main__':
 
     if op == 'tag-set':
         print("All Possible Tags:")
-        for tag in x.tag_set():
-            print(tag)
+        for i in producer:
+            print(i)
         sys.exit(0)
     elif op == 'grab':
         if numargs != 3:
@@ -57,6 +62,12 @@ if __name__ == '__main__':
         else:
             tags = list(sys.argv[2:])
             print(x.grab_many(tags))
+    elif op == 'count-tag':
+        if numargs != 3:
+            print(help_msg)
+            sys.exit(1)
+        else:
+            print(x.count_tag(sys.argv[2]))
     elif args == '':
         print(help_msg)
         sys.exit(0)

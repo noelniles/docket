@@ -25,6 +25,21 @@ class Explorer:
         self.path = path
         self.context = iterparse(self.path)
 
+    def produce(self, consumer, heavy_func):
+        """Produces a set of values and forwards them to the pre-defined consumer
+        function
+        """
+        data = heavy_func
+        print('Produced {}'.format(data))
+        consumer.send(data)
+        yield
+
+    def consume(self):
+        data = yield
+        for x in data:
+            print("Consumed: ", x)
+
+
     def tag_set(self):
         """Return a set of all the tags.
         
@@ -41,8 +56,9 @@ class Explorer:
 
         for event, elem in self.context:
             tags.add(elem.tag)
+            yield tags
             elem.clear() # free memory
-        return tags
+        #return tags
 
     def grab(self, tag):
         """Search for tag and return a list of the text.
@@ -98,6 +114,6 @@ class Explorer:
        Keyword arguments:
        tag -- string, the tag to search for
        """
-       count = Counter(self.filter(tag))
+       count = Counter(self.grab(tag))
        return count.most_common() 
 
