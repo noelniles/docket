@@ -21,7 +21,8 @@ OK
 ### How to Use the Command Line Interface
 1. `cd docket`
 2. `run `python -m <options> <params>`
-  ##### current usages
+  
+##### current usages
   - `python -m tag-set` returns a the set of all tags
   - `python -m grab <tag>` grabs all the text associated with tag
   - `python -m grab-many <tag1> <tag2> ... <tagN>` grabs many tags
