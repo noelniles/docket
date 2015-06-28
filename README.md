@@ -23,6 +23,6 @@ OK
 2. `run `python -m <options> <params>`
   
 ##### current usages
-  - `python -m tag-set` returns a the set of all tags
-  - `python -m grab <tag>` grabs all the text associated with tag
-  - `python -m grab-many <tag1> <tag2> ... <tagN>` grabs many tags
+  - `python -m docket tag-set` returns a the set of all tags
+  - `python -m docket grab <tag>` grabs all the text associated with tag
+  - `python -m docket grab-many <tag1> <tag2> ... <tagN>` grabs many tags
