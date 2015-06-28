@@ -15,7 +15,7 @@ This file is part of Docket.
     You should have received a copy of the GNU General Public License
     along with Docket.  If not, see <http://www.gnu.org/licenses/>.
 """
-import os
+import os, sys
 from docket.explore import Explorer
 
 
@@ -25,19 +25,39 @@ if __name__ == '__main__':
     xml_file = 'DCTInnoExtY20050420DCTInnoExtY20050420_N_DFEDDISTCV12_2015042064336.nxo.xml'
     path = os.path.join(os.getcwd(), data_path, xml_file)
 
+    help_msg = ("""Usage: $ python -m docket tag-set: The set of all tags\n"""
+        """       $ python -m docket grab <tag>: Grabs the text from tag\n""")
+
     x = Explorer(path)
+    numargs = len(sys.argv)
 
-    #print("All Possible Tags:")
-    #for tag in x.tag_set():
-    #    print(tag)
+    # Exit if no command line arguments
+    if numargs > 1:
+        op = sys.argv[1]
+    else:
+        print(help_msg)
+        sys.exit(1)
+
+    if op == 'tag-set':
+        print("All Possible Tags:")
+        for tag in x.tag_set():
+            print(tag)
+        sys.exit(0)
+    elif op == 'grab':
+        if numargs != 3:
+            print(help_msg)
+            sys.exit(1)
+        else:
+            tag = sys.argv[2]
+            print(x.grab(tag))
+    elif op == 'grab-many':
+        if numargs <= 3:
+            print(help_msg)
+            sys.exit(1)
+        else:
+            tags = list(sys.argv[2:])
+            print(x.grab_many(tags))
+    elif args == '':
+        print(help_msg)
+        sys.exit(0)
    
-    #print(x.filter('cause'))
-    #print("Causes from Most to Least Common:")
-    #for cause in x.count_tag('cause'):
-    #    print(cause)
-    res = x.fields_from_tag(['court.block', 'md.title'])
-
-    for title in res['md.title']:
-        print("Title: ", title)
-    for cb in res['court.block']:
-        print("Court: ", cb)
