@@ -21,6 +21,22 @@ from xml.etree.cElementTree import iterparse
 
 
 class Explorer:
+    """Explores XML files.
+
+    Initial Paramaters:
+    path -- a path to an XML file
+
+    Class Attributes:
+    self.path -- the path to the XML file
+    self.context -- an iterator with (event, elem) pairs
+    
+    Methods:
+    tag_set -- returns a set of all the tags
+    grab -- grabs the text from one tag
+    grab_many -- grabs the text from a list of tags
+    count_tag -- returns a list of tuples with the tag text and how
+                 often a tag appears
+    """
     def __init__(self, path):
         self.path = path
         self.context = iterparse(self.path)
